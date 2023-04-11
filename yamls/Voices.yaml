@@ -1,0 +1,10 @@
+voice_paths: [
+    "./Audios/Hifumi/hifumi1.mp3",
+    "./Audios/Shiroko/shiroko1.mp3",
+    "./Audios/Nonomi/nonomi1.mp3",
+    "./Audios/Nonomi/nonomi2.mp3",
+    "./Audios/Mika/mika1.mp3",
+    "./Audios/Hoshino(Swimsuit)/Hoshino_swimsuit1.mp3",
+    "./Audios/Saki/saki1.mp3",
+    "./Audios/Koharu/koharu1.mp3",
+]

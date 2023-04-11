@@ -1,0 +1,14 @@
+bot_qq : 2946761346
+su : [2197202534]
+verifyKey : "Catalina"
+setuapi : "https://iw233.cn/API/Random.php" 
+setuapi1 : "https://api.jiecs.top/lolicon?r18=0"
+headapi: "https://q4.qlogo.cn/headimg_dl?dst_uin={six_qid}&spec=640"
+ban_group : [
+
+
+]
+ban_user : [
+
+
+]
