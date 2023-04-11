@@ -1,0 +1,10 @@
+{
+  "QCloud_Secret_id": "",
+  "QCloud_Secret_key": "",
+  "MySQL_Pwd": "",
+  "MySQL_Port": 3306,
+  "MySQL_Host": "localhost",
+  "MySQL_db": "",
+  "Redis_Host": "localhost",
+  "Redis_port": 6379
+}
